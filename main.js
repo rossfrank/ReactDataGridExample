@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import ReactDataGrid from 'react-data-grid';
 
-var inputJSON = require('./../python_out.json');
+var inputJSON = require('./python_out.json');
 
 //var PythonShell = require('python-shell');
 
